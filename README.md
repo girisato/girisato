@@ -1,6 +1,6 @@
 **Welcome to @realbxnnie's home!**
 
-*//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\*
+*/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*
 
 
 Currently learning **JavaScript**, **Lua**
