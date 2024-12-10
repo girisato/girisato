@@ -6,4 +6,8 @@ Born in Russia at February, 10th.
 
 Hobby: Programming
 
-Favorite animal: Rabbit
+Favorite Animal: Rabbit
+
+Favorite OS: Linux Mint
+
+Current OS: EndeavourOS 
