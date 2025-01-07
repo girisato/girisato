@@ -15,8 +15,7 @@ Birthday: February 10
 Current OS: EndeavourOS
 
 > [!NOTE]
-> Birthday: February 10
-> 
+> Birthday: February 10\
 > Current OS: EndeavourOS
 > 
 > [fun] Favorite Food: Apple :D
