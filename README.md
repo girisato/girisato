@@ -1,5 +1,6 @@
 #@realbxnnie
-Sophomore Programmer, Middle UI Designer
+
+Sophomore Programmer, Middle UI Designer\n
 Skills:
 `
 Luau:       [ 🮋🮋🮋🮋🮋🮋🮋🮐 ]
