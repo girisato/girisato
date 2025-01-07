@@ -1,14 +1,14 @@
 #@realbxnnie
 
 Sophomore Programmer, Middle UI Designer\
-Skills:\
+Skills:
 
-Luau:       [ 🮋🮋🮋🮋🮋🮋🮋🮐 ]\
-Lua:        [ 🮋🮋🮋🮋🮋🮐🮐🮐 ]\
-Python:     [ 🮋🮋🮋🮐🮐🮐🮐🮐 ]\
-JavaScript: [ 🮋🮋🮉🮐🮐🮐🮐🮐 ]\
-TypeScript: [ 🮋🮋🮉🮐🮐🮐🮐🮐 ]\
-C++:        [ 🮉🮐🮐🮐🮐🮐🮐🮐 ]\
+Luau:*******[ 🮋🮋🮋🮋🮋🮋🮋🮐 ]\
+Lua:********[ 🮋🮋🮋🮋🮋🮐🮐🮐 ]\
+Python:*****[ 🮋🮋🮋🮐🮐🮐🮐🮐 ]\
+JavaScript:*[ 🮋🮋🮉🮐🮐🮐🮐🮐 ]\
+TypeScript:*[ 🮋🮋🮉🮐🮐🮐🮐🮐 ]\
+C++:********[ 🮉🮐🮐🮐🮐🮐🮐🮐 ]
 
 
 Birthday: February 10
