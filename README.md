@@ -1,13 +1,16 @@
-**Welcome to @realbxnnie's home!**
+#@realbxnnie
+Sophomore Programmer, Middle UI Designer
+Skills:
+`
+Luau:       [ 🮋🮋🮋🮋🮋🮋🮋🮐 ]
+Lua:        [ 🮋🮋🮋🮋🮋🮐🮐🮐 ]
+Python:     [ 🮋🮋🮋🮐🮐🮐🮐🮐 ]
+JavaScript: [ 🮋🮋🮉🮐🮐🮐🮐🮐 ]
+TypeScript: [ 🮋🮋🮉🮐🮐🮐🮐🮐 ]
+C++:        [ 🮉🮐🮐🮐🮐🮐🮐🮐 ]
+`
 
-Junior Programmer, Middle UI Designer.
+Birthday: February 10
+Current OS: EndeavourOS
 
-Born in Russia at February, 10th.
-
-Hobby: Programming
-
-Favorite Animal: Rabbit
-
-Favorite OS: Linux Mint
-
-Current OS: EndeavourOS 
+[ * Fun ] Favorite Food: Apple :D
