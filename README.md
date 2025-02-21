@@ -1,6 +1,6 @@
-# realbxnnie\
-## Sophomore Programmer\
-## Birthday: February 10th
+# realbxnnie
+Sophomore Programmer\
+Birthday: February 10th
 
 **Languages**\
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
