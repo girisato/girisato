@@ -1,9 +1,9 @@
 # [realbxnnie](https://realbxnnie.github.io)
 
 **🧑‍💻 About me**
-- Sophomore Programmer\
-- Middle UI Designer\
-- Birthday: February 10th\
+- Sophomore Programmer
+- Middle UI Designer
+- Birthday: February 10th
   
 ```Code is like humor. When you have to explain it, it’s bad." ~ Cory House```
 
