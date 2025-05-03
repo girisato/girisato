@@ -4,12 +4,6 @@
 - Sophomore Programmer
 - Middle UI Designer
 - Birthday: February 10th
-  
-```Code is like humor. When you have to explain it, it’s bad." ~ Cory House```
-
-
-**🛠 Programming Languages**\
-[![stats](https://raw.githubusercontent.com/realbxnnie/statistics/master/generated/languages.svg#gh-dark-mode-only)](#)
 
 **🛠 Tools**\
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
