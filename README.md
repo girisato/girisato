@@ -9,12 +9,7 @@
 
 
 **🛠 Programming Languages**\
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](#)
-[![VB.NET](https://img.shields.io/badge/VB.NET-00AAFF?logo=vbneta&logoColor=000)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-
+[![stats](https://raw.githubusercontent.com/realbxnnie/statistics/master/generated/languages.svg#gh-dark-mode-only)](#)
 
 **🛠 Tools**\
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
