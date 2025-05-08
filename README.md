@@ -15,7 +15,7 @@ CPU: Intel Core i5-1035G1\
 GPU: Intel Iris Graphics G1
 
 **🖥 Operating Systems**\
-[![EndeavourOS](https://img.shields.io/badge/EndeavourOS-A020F0?logo=endeavouros&logoColor=fff)](#)\
+[![Gentoo](https://img.shields.io/badge/Gentoo%20Linux-A020F0?logo=gentoo&logoColor=fff)](#)\
 [![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white)](#)
 
 **📊 Stats**\
