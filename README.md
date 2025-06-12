@@ -14,7 +14,7 @@ CPU: Intel Core i5-1035G1\
 GPU: Intel Iris Graphics G1
 
 **🖥 Operating Systems**\
-[![Gentoo](https://img.shields.io/badge/Gentoo%20Linux-A020F0?logo=gentoo&logoColor=fff)](#) _i use gentoo btw_
+[![Gentoo](https://img.shields.io/badge/Arch%20Linux-000FFF?logo=archlinux&logoColor=fff)](#) 
 
 **📊 Stats**\
 ![stats](https://github-readme-stats.vercel.app/api?username=realbxnnie&show_icons=true&theme=dark)
