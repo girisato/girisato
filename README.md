@@ -9,7 +9,7 @@
 
 **🛠 Tools**\
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0033a6.svg?logo=vscode&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-4B0076.svg?logo=vs2022&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%202022-4B0076.svg?logo=vs2022&logoColor=white)](#)
 
 **💻 Hardware**\
 **CPU** · Intel Core i5-1035G1\
