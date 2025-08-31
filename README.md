@@ -9,15 +9,15 @@
 
 **🛠 Tools**\
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0033a6.svg?logo=vscode&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%202022-4B0076.svg?logo=vs2022&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/XCode-005FFF.svg?logo=xcode&logoColor=white)](#)
 
 **💻 Hardware**\
-**CPU** · Intel Core i5-1035G1\
-**GPU** · Intel Iris Graphics G1
+**CPU** · Intel Core i5-8265U\
+**GPU** · Intel UHD Graphics 620
 
 **🖥 Operating Systems**\
-[![Arch](https://img.shields.io/badge/Arch%20Linux-005FFF?logo=archlinux&logoColor=fff)](#) 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Windows%2010-0033a6.svg?logo=windows10&logoColor=white)](#)
+[![Arch](https://img.shields.io/badge/macOS%20Sonoma-00FFF?logo=apple&logoColor=fff)](#) 
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Windows%2011-005FFF.svg?logo=windows11&logoColor=white)](#)
 
 **📊 Stats**\
 ![stats](https://github-readme-stats.vercel.app/api?username=realbxnnie&show_icons=true&theme=dark)
