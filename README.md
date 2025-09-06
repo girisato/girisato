@@ -17,7 +17,7 @@
 
 **🖥 Operating Systems**\
 [![Arch](https://img.shields.io/badge/macOS%20Mojave-000FFF?logo=apple&logoColor=fff)](#) 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Windows%2011-005FFF.svg?logo=windows11&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/CachyOS-005FFF.svg?logo=c&logoColor=white)](#)
 
 **📊 Stats**\
 ![stats](https://github-readme-stats.vercel.app/api?username=realbxnnie&show_icons=true&theme=dark)
