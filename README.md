@@ -16,7 +16,7 @@
 **GPU** · Intel UHD Graphics 620
 
 **🖥 Operating Systems**\
-[![Arch](https://img.shields.io/badge/macOS%20Mojave-000FFF?logo=apple&logoColor=fff)](#) 
+[![Arch](https://img.shields.io/badge/macOS%20Sequoia-000FFF?logo=apple&logoColor=fff)](#) 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/CachyOS-005FFF.svg?logo=c&logoColor=white)](#)
 
 **📊 Stats**\
