@@ -16,8 +16,8 @@
 **GPU** · Intel UHD Graphics 620
 
 **🖥 Operating Systems**\
-[![Arch](https://img.shields.io/badge/macOS%20Sequoia-000FFF?logo=apple&logoColor=fff)](#) 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/CachyOS-005FFF.svg?logo=c&logoColor=white)](#)
+[![Arch](https://img.shields.io/badge/macOS%20Tahoe-000FFF?logo=apple&logoColor=fff)](#) 
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/macOS%20Sequoia-000FFF.svg?logo=apple&logoColor=white)](#)
 
 **📊 Stats**\
 ![stats](https://github-readme-stats.vercel.app/api?username=realbxnnie&show_icons=true&theme=dark)
