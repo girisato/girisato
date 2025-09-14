@@ -1,25 +1,33 @@
-# [realbxnnie](https://realbxnnie.github.io)
+<div align="center">
 
-**🧑‍💻 About me**\
- **Sophomore Programmer**\
- **Middle UI Designer**
-  
-**Birthday** · February 10th\
-**Origin** · Japan
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monaco&weight=800&size=29&pause=1000&color=0092F7&center=true&vCenter=true&width=435&lines=realbxnnie" alt="Typing SVG" /></a>
 
-**🛠 Tools**\
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0033a6.svg?logo=vscode&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/XCode-005FFF.svg?logo=xcode&logoColor=white)](#)
+<br>
 
-**💻 Hardware**\
-**CPU** · Intel Core i5-8265U\
-**GPU** · Intel UHD Graphics 620
+<b>🧑‍💻 About me</b><br>
+<pre>
+  <b>Sophomore Programmer</b><br>
+<b>Middle UI Designer</b><br>
+<b>Birthday</b> · February 10th<br>
+<b>Origin</b> · Japan<br>
+</pre>
 
-**🖥 Operating Systems**\
-[![Arch](https://img.shields.io/badge/macOS%20Tahoe-000FFF?logo=apple&logoColor=fff)](#) 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/macOS%20Sequoia-000FFF.svg?logo=apple&logoColor=white)](#)
+<b>🛠 Tools</b><br>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0033a6.svg?logo=vscode&logoColor=white" alt="Visual Studio Code"></a><br>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/XCode-005FFF.svg?logo=xcode&logoColor=white" alt="XCode"></a><br>
 
-**📊 Stats**\
-![stats](https://github-readme-stats.vercel.app/api?username=realbxnnie&show_icons=true&theme=dark)
+<b>💻 Hardware</b><br>
+<pre>
+  <b>CPU</b> · Intel Core i5-8265U<br>
+<b>GPU</b> · Intel UHD Graphics 620<br> 
+</pre>
 
-_自分でやる方がいいです。_
+<b>🖥 Operating Systems</b><br>
+<a href="#"><img src="https://img.shields.io/badge/macOS%20Tahoe-000FFF?logo=apple&logoColor=fff" alt="macOS Tahoe"></a><br>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/macOS%20Sequoia-000FFF.svg?logo=apple&logoColor=white" alt="macOS Sequoia"></a><br>
+
+<b>📊 Stats</b><br>
+![stats](https://github-readme-stats.vercel.app/api?username=realbxnnie&show_icons=true&theme=dark)<br>
+
+<i>自分でやる方がいいです。</i><br>
+</div>
