@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monaco&weight=800&size=29&pause=1000&color=0092F7&center=true&vCenter=true&width=435&lines=realbxnnie" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monaco&weight=800&size=29&pause=1000&color=0092F7&center=true&vCenter=true&width=435&lines=girisato" alt="Typing SVG" /></a>
 
 <br>
 
@@ -24,10 +24,10 @@
 
 <b>🖥 Operating Systems</b><br>
 <a href="#"><img src="https://img.shields.io/badge/macOS%20Tahoe-000FFF?logo=apple&logoColor=fff" alt="macOS Tahoe"></a><br>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/macOS%20Sequoia-000FFF.svg?logo=apple&logoColor=white" alt="macOS Sequoia"></a><br>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Fedora%20Linux-000FFF.svg?logo=apple&logoColor=white" alt="Fedora Linux"></a><br>
 
 <b>📊 Stats</b><br>
-![stats](https://github-readme-stats.vercel.app/api?username=realbxnnie&show_icons=true&theme=dark)<br>
+![stats](https://github-readme-stats.vercel.app/api?username=girisato&show_icons=true&theme=dark)<br>
 
 <i>自分でやる方がいいです。</i><br>
 </div>
