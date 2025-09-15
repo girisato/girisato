@@ -27,7 +27,8 @@
 <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Fedora%20Linux-000FFF.svg?logo=fedora&logoColor=white" alt="Fedora Linux"></a><br>
 
 <b>📊 Stats</b><br>
-![stats](https://github-readme-stats.vercel.app/api?username=girisato&show_icons=true&theme=dark)<br>
+![stats](https://github-readme-stats.vercel.app/api?username=girisato&theme=gruvbox)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girisato&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <i>自分でやる方がいいです。</i><br>
 </div>
