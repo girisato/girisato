@@ -23,8 +23,7 @@
 </pre>
 
 <b>🖥 Operating Systems</b><br>
-<a href="#"><img src="https://img.shields.io/badge/macOS%20Tahoe-000FFF?logo=apple&logoColor=fff" alt="macOS Tahoe"></a><br>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Fedora%20Linux-000FFF.svg?logo=fedora&logoColor=white" alt="Fedora Linux"></a><br>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Gentoo%20Linux-FF00FF.svg?logo=gentoo&logoColor=white" alt="Gentoo Linux"></a><br>
 
 <b>📊 Stats</b><br>
 ![stats](https://github-readme-stats.vercel.app/api?username=girisato&theme=gruvbox)<br>
